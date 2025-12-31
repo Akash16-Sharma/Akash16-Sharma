@@ -1,27 +1,93 @@
-# 💫 About Me:
-🚀 I’m currently working on<br>Building full-stack web projects using JavaScript, React, Supabase, and modern UI/UX practices to create fast, scalable, real-world applications.<br>🤝 I’m looking to collaborate on<br>Open-source projects, SaaS ideas, and meaningful web products where I can contribute as a frontend or full-stack developer and learn from experienced builders.<br>🛠 I’m looking for help with<br>System design, backend scalability, and best practices for building production-ready applications and high-impact portfolios.<br>🌱 I’m currently learning<br>Advanced JavaScript, backend architecture, Supabase, API design, and gradually diving into AI-powered applications.<br>💬 Ask me about<br>JavaScript fundamentals, portfolio building, learning software development from scratch, and turning ideas into working products.<br>⚡ Fun fact<br>I believe consistency beats talent — I show up every day to get 1% better 🚀
+# Aakash Sharma
 
-
-## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@SilentDev_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aakashsharma7232@gmail.com) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Akash16-Sharma&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Akash16-Sharma&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash16-Sharma&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Akash16-Sharma&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Akash16-Sharma&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+Full-stack Developer focused on building fast, scalable, and real-world web applications.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Akash16-Sharma&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About Me
+
+I build production-ready web products using **JavaScript, React, Supabase, and modern UI/UX practices**.  
+My focus is on clean architecture, performance, and turning ideas into usable software.
+
+I believe **consistency beats talent** — I show up every day to improve by 1%.
+
+---
+
+## What I’m Working On
+
+- Full-stack web applications with real users  
+- SaaS-style products and dashboards  
+- Improving system design & backend scalability  
+
+---
+
+## Open to Collaborate On
+
+- Open-source projects  
+- SaaS ideas & early-stage products  
+- Meaningful web tools with real impact  
+
+I’m especially interested in working with experienced builders and learning from real production systems.
+
+---
+
+## Currently Learning
+
+- Advanced JavaScript & backend architecture  
+- Supabase & API design best practices  
+- Scalable system design concepts  
+- AI-powered application foundations  
+
+---
+
+## Ask Me About
+
+- JavaScript fundamentals  
+- Portfolio building from scratch  
+- Learning software development the right way  
+- Turning ideas into working products  
+
+---
+
+## Tech Stack
+
+**Frontend**
+- JavaScript, HTML, CSS
+- React, Next.js
+- Tailwind CSS, Semantic UI
+- Figma
+
+**Backend**
+- Node.js, Express, NestJS
+- Supabase, Firebase
+- .NET Core, C#
+- REST APIs
+
+**Databases**
+- PostgreSQL, MySQL
+- MongoDB
+- SQL Server
+- Redis
+
+**DevOps & Tools**
+- Git & GitHub
+- AWS, Azure, Vercel
+- Jenkins
+- Postman
+
+---
+
+## GitHub Stats
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Akash16-Sharma&theme=dark&hide_border=true)
+
+---
+
+## Connect With Me
+
+- **X (Twitter):** https://x.com/@SilentDev_  
+- **Email:** aakashsharma7232@gmail.com  
+
+---
+
+> *“Small improvements, done daily, create massive results.”*
